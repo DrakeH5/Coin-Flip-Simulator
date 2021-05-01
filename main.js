@@ -12,5 +12,5 @@ while(i<nbm_of_coins){
     tails+=1;
   }
   i++;
-console.log("heads " + heads + "\n tails " + tails);
 }
+console.log("heads " + heads + "\n tails " + tails);
